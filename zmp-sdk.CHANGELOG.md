@@ -8,4 +8,4 @@
 
 ### Bug Fixes
 
-* Cập nhật API **openShareSheet**: Không thể chia sẻ ảnh trên Zalo phiên bản 22.07.01 (iOS)
+* Cập nhật API **openShareSheet**: Vá lỗi không thể chia sẻ ảnh trên Zalo phiên bản 22.06.02 (iOS)
