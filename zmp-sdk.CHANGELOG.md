@@ -1,6 +1,4 @@
-[npm history][1]
-
-[1]: https://www.npmjs.com/package/zmp-sdk?activeTab=versions
+<a href="https://www.npmjs.com/package/zmp-sdk?activeTab=versions" target="_blank">npm history</a>
 
 ## v2.21.2 (14-07-2022)
 
