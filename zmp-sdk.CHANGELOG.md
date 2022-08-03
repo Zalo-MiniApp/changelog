@@ -1,5 +1,13 @@
-## v2.21.2 (14-07-2022)
+## v2.22.0 (2022-08-03)
 
-### Bug Fixes
+### Features
 
-* **openShareSheet**: error when share image (Zalo iOS version 22.06.02)
+
+ - **getContext**: introduced a new api `getContext`
+
+## v2.21.2 (2022-07-14)
+
+### Bug fixes
+
+
+ - **openShareSheet**: error when share image (Zalo iOS version 22.06.02)
