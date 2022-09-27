@@ -1,3 +1,14 @@
+## v2.23.0 (2022-08-03)
+
+### Features
+
+
+ - **login**: default login for all api except getUserInfo and getContext
+
+### Bug fixes
+
+  - **requestCamerapermission**: api requestCamerapermission return wrong data
+
 ## v2.22.0 (2022-08-03)
 
 ### Features
