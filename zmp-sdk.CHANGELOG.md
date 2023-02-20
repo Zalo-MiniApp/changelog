@@ -1,3 +1,8 @@
+## v2.24.0 (2022-02-20)
+
+### Features
+
+  - The return data for **getLocation**, **getPhoneNumber** functions has been updated.
 ## v2.23.4 (2022-02-02)
 
 ### Features
