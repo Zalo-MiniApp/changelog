@@ -1,3 +1,12 @@
+## v2.25.3 (2022-03-20)
+
+### Features
+
+  - The SDK is now treeshakable, allowing you to import only the necessary APIs from zmp-sdk/apis.
+  - Added new API: **configAppView**
+### Changes:
+
+  - Renamed the 'Events' property to 'EventName' for clarity.
 ## v2.24.0 (2022-02-20)
 
 ### Features
