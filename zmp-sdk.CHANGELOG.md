@@ -1,3 +1,8 @@
+## v2.25.6 (2023-04-03)
+
+### Bug fixes
+
+ - **Data Caching**: Cannot use storage fixed
 ## v2.25.3 (2022-03-20)
 
 ### Features
