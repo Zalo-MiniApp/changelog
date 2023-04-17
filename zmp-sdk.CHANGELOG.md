@@ -1,3 +1,8 @@
+## v2.25.7 (2023-04-17)
+
+### Features
+
+ - **openShareSheet**: Added options type: 'zmp_deep_link'
 ## v2.25.6 (2023-04-03)
 
 ### Bug fixes
