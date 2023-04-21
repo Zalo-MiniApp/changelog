@@ -1,3 +1,13 @@
+## v2.26.0 (2023-04-21)
+
+### Features
+
+ - **minimizeApp**: Added new api "minimizeApp"
+ - **openMiniApp**: Can open mini app with path
+
+### Bug fixes
+
+ - **Data Caching**: Cannot use storage on env local fixed
 ## v2.25.7 (2023-04-17)
 
 ### Features
