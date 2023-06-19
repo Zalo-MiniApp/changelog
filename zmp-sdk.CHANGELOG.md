@@ -1,3 +1,9 @@
+## v2.27.1 (2023-06-01)
+
+### Features
+
+ - **favoriteApp**: Added new api "favoriteApp"
+ - **openPermissionSetting**: Added new api "openPermissionSetting"
 ## v2.26.1 (2023-04-26)
 
 ### Features
