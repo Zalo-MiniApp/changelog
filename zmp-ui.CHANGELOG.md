@@ -8,7 +8,7 @@
 
 ### Bug fixes
 
-- Sửa lỗi active indication trên swiper
+- Sửa lỗi active indicator trên swiper
 - Sửa lỗi typing
 
 ## Version 1.7.0 (26-04-2023)
