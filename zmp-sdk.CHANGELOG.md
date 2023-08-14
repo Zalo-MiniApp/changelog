@@ -1,3 +1,25 @@
+## v2.28.2 (2023-08-14)
+
+### Bug fixes
+
+ - **requestSendNotification**: Fixed the success return data on Android
+## v2.28.1 (2023-07-26)
+
+### Bug fixes
+
+ - **followOA**, **unfollowOA**: Fixed the return data
+## v2.28.0 (2023-07-12)
+
+### Features
+
+ - **addRating**: Added new api "addRating"
+ - **interactOa**: Added new api "interactOa"
+ - **getUserInfo**: Added sensitive info
+## v2.27.2 (2023-06-21)
+
+### Bug fixes
+
+ - Fixed bug payment
 ## v2.27.1 (2023-06-01)
 
 ### Features
