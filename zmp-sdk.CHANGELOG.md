@@ -1,3 +1,8 @@
+## v2.30.0 (2023-10-10)
+
+### Features
+
+ - **openWebview**: New Configuration Options for openWebview. You can now define the style of the webview when it opens, [see more](https://mini.zalo.me/docs/api/openWebview/).
 ## v2.28.2 (2023-08-14)
 
 ### Bug fixes
