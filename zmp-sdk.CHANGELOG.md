@@ -2,7 +2,7 @@
 
 ### Features
 
- - **openWebview**: New Configuration Options for openWebview. You can now define the style of the webview when it opens, [see more](./openWebview/).
+ - **openWebview**: New Configuration Options for openWebview. You can now define the style of the webview when it opens, [see more](../openWebview/).
 ## v2.28.2 (2023-08-14)
 
 ### Bug fixes
