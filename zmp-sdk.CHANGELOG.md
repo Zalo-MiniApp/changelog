@@ -1,3 +1,8 @@
+## v2.30.4 (2023-10-31)
+
+### Bug fixes
+
+ - **getUserInfo**: Resolving incorrect image dimensions in responses
 ## v2.30.0 (2023-10-10)
 
 ### Features
