@@ -1,3 +1,16 @@
+## v2.32.3 (2023-11-27)
+
+### Features
+
+ - **getUserInfo**: Added field 'followedOA'
+
+## v2.32.2 (2023-11-23)
+
+### Bug fixes
+ - Fixed few bugs
+
+### Features
+ - **getUserID**: Added api "getUserID"
 ## v2.30.4 (2023-10-31)
 
 ### Bug fixes
