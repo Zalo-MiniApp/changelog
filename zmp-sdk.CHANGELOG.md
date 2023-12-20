@@ -1,3 +1,10 @@
+## v2.33.1 (2023-11-27)
+
+### Bug fixes
+
+ - **requestSendNotification**: Resolving the bug related to sending notifications
+ - **setNavigationBarTitle**: Resolving the issue of incorrect page titles when navigating back
+
 ## v2.32.3 (2023-11-27)
 
 ### Features
