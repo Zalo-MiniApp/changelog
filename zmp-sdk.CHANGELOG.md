@@ -1,3 +1,7 @@
+## v2.35.0 (2024-01-25)
+
+- if acctoken is obtained without user consent, the userId can only be obtained. 
+
 ## v2.33.1 (2023-11-27)
 
 ### Bug fixes
