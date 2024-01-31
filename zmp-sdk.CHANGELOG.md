@@ -1,3 +1,8 @@
+## v2.35.3 (2024-01-31)
+
+### Bug fixes
+- Correct file name interactOA in build package
+
 ## v2.35.2 (2024-01-31)
  - By default, user consent is only displayed when retrieving user information with name and avatar
 
