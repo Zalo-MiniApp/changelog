@@ -1,6 +1,9 @@
+## v2.35.2 (2024-01-31)
+ - By default, user consent is only displayed when retrieving user information with name and avatar
+
 ## v2.35.0 (2024-01-25)
 
-- if acctoken is obtained without user consent, the userId can only be obtained. 
+- if accessToken is obtained without user consent, the userId can only be obtained. 
 
 ## v2.33.1 (2023-11-27)
 
