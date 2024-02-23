@@ -1,3 +1,8 @@
+## v2.35.4 (2024-02-23)
+
+### Bug fixes
+- Missing followedOA field declaration in getUserInfo api response
+
 ## v2.35.3 (2024-01-31)
 
 ### Bug fixes
