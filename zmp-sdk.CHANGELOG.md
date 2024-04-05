@@ -1,3 +1,9 @@
+## v2.37.1 (2024-04-01)
+
+### Features
+- Added apis Advertising
+- Update api Payment
+
 ## v2.35.4 (2024-02-23)
 
 ### Bug fixes
