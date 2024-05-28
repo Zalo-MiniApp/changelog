@@ -1,3 +1,8 @@
+## v2.37.4 (2024-05-28)
+
+### Bug fixes
+ - **getUserInfo**: show consent when Zalo App has more than 1 MiniApp.
+
 ## v2.37.1 (2024-04-01)
 
 ### Features
