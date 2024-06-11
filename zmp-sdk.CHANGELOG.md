@@ -1,3 +1,13 @@
+## v2.38.2 (2024-06-11)
+### Features
+
+- **getUserInfo**: Added field 'autoRequestPermission'
+
+## v2.38.0 (2024-06-03)
+### Features
+
+- added new apis: **showOAWidget**
+
 ## v2.37.5 (2024-05-30)
 ### Improve
 
