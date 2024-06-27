@@ -1,3 +1,10 @@
+## v2.39.0 (2024-06-19)
+### Features
+
+- **showFunctionButtonWidget, showOAWidget** : added new apis to show widgets.
+- **openShareSheet**: new type text.
+- **camera SDK** : camera class that makes stream management easier, with common functions and an OnFrameCallback to handle returned frames. 
+
 ## v2.38.2 (2024-06-11)
 ### Features
 
