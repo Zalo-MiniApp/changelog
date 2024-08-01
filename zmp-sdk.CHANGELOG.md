@@ -3,7 +3,7 @@
 ### Bug fixes
  -  **getAccessToken**: Fix bug.
   
-## ~~v2.39.6~~ (2024-07-29) DEPRECATED
+## v2.39.6 (2024-07-29) DEPRECATED
 ### REASON
  - API payment not working.
   
