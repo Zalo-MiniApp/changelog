@@ -1,3 +1,9 @@
+## v2.43.0 (2024-11-20)
+### Features
+ - **openPostFeed**: type image support multiple urls.
+ - **setItem, getItem, removeItem, clear, getStorageInfo**: added new apis to nativeStorage.
+ - **setStorage, getStorage, removeStorage, clearStorage, getStorageInfo**: deprecated async storage apis
+
 ## v2.39.8 (2024-07-30)
 
 ### Bug fixes
