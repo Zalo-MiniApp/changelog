@@ -1,3 +1,7 @@
+## v2.43.1 (2024-11-25)
+### Bug fixes
+ -  **setItem, getItem, removeItem**: Fix bug native storage params invalid.
+
 ## v2.43.0 (2024-11-20)
 ### Features
  - **openPostFeed**: type image support multiple urls.
