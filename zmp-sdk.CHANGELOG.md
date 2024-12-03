@@ -1,3 +1,12 @@
+## v2.44.0 (2024-12-02)
+### Features
+- **downloadFile**: Save file to device external drive.
+- **saveVideoToGallery**: Save video to device media gallery.
+
+## v2.43.2 (2024-11-25)
+### Bug fixes
+ - **openShareSheet**: type image imageUrl to optional.
+
 ## v2.43.1 (2024-11-25)
 ### Bug fixes
  -  **setItem, getItem, removeItem**: Fix bug native storage params invalid.
