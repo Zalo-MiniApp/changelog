@@ -1,3 +1,7 @@
+## v2.44.1 (2024-12-26)
+### Bug fixes
+- **getUserInfo**: return code + message when response'
+
 ## v2.44.0 (2024-12-02)
 ### Features
 - **downloadFile**: Save file to device external drive.
