@@ -1,3 +1,7 @@
+## v2.44.2 (2025-02-11)
+### Bug fixes
+- **nativeStorage**: Fixed a bug causing it to not work on the web.
+
 ## v2.44.1 (2024-12-26)
 ### Bug fixes
 - **getUserInfo**: return code + message when response'
