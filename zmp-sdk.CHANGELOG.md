@@ -1,4 +1,4 @@
-## v2.48.0 (2025-02-22)
+## v2.48.0 (2025-09-22)
 ### Features
 - **openDocument**: New API to open document files (PDF).
 
