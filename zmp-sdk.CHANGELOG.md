@@ -1,3 +1,7 @@
+## v2.48.0 (2025-02-22)
+### Features
+- **openDocument**: New API to open document files (PDF).
+
 ## v2.44.2 (2025-02-11)
 ### Bug fixes
 - **nativeStorage**: Fixed a bug causing it to not work on the web.
